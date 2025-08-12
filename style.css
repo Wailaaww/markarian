@@ -1,0 +1,51 @@
+body {
+  background: color f 1f 1f 1px;
+  color: #0f141e;
+}
+.berkshire-swash-regular {
+  font-family: "Berkshire Swash", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.avatar{
+    width: 500px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0,0,0,0,25);
+    padding-left: 0px;
+
+    
+}
+
+.info h1,p,h2{
+  color: white;
+  margin: 0;
+  font-style: italic;
+  font-weight: bolder;
+  letter-spacing: 5px;
+    /* color:#white;
+    margin: 0;
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 5px;
+     */
+}  
+body{
+
+  background-image: url('w.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+.ol li, a, ul,ol{
+  color: white;
+  margin: auto;
+  padding: 0;
+  padding: left;
+}
+.myhobby li,ol,p{
+ color: white;
+ margin: auto;
+ padding: auto;
+ padding: left;
+ 
+}
